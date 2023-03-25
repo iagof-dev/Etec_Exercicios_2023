@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Descontamento", "Descontamento\Descontamento.csproj", "{8EB46D1C-A603-4F5A-A233-C4CEA562C764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB46D1C-A603-4F5A-A233-C4CEA562C764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB46D1C-A603-4F5A-A233-C4CEA562C764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB46D1C-A603-4F5A-A233-C4CEA562C764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB46D1C-A603-4F5A-A233-C4CEA562C764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F570A0-094A-4E35-AA6E-04B03AB86E11}
+	EndGlobalSection
+EndGlobal
