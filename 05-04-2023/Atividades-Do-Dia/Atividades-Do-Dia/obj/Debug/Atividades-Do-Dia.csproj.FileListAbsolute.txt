@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\05-04-2023\Atividades-Do-Dia\Atividades-Do-Dia\bin\Debug\Atividades-Do-Dia.exe.config
+C:\Users\Usuario\Desktop\05-04-2023\Atividades-Do-Dia\Atividades-Do-Dia\bin\Debug\Atividades-Do-Dia.exe
+C:\Users\Usuario\Desktop\05-04-2023\Atividades-Do-Dia\Atividades-Do-Dia\bin\Debug\Atividades-Do-Dia.pdb
+C:\Users\Usuario\Desktop\05-04-2023\Atividades-Do-Dia\Atividades-Do-Dia\obj\Debug\Atividades-Do-Dia.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\05-04-2023\Atividades-Do-Dia\Atividades-Do-Dia\obj\Debug\Atividades-Do-Dia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\05-04-2023\Atividades-Do-Dia\Atividades-Do-Dia\obj\Debug\Atividades-Do-Dia.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\05-04-2023\Atividades-Do-Dia\Atividades-Do-Dia\obj\Debug\Atividades-Do-Dia.exe
+C:\Users\Usuario\Desktop\05-04-2023\Atividades-Do-Dia\Atividades-Do-Dia\obj\Debug\Atividades-Do-Dia.pdb
