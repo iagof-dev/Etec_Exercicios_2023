@@ -152,9 +152,49 @@ namespace Atividade
             }
         }
 
+        static void atividade4()
+        {
+
+            double saldo=0,qnt=0,valor;
+            int operacao = -1;
+            do
+            {
+                Console.WriteLine("Digite a quantidade");
+                Console.Write(">");
+                qnt = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Digite o valor unitario");
+                Console.Write(">");
+                valor = Convert.ToDouble(Console.ReadLine());
+
+            }
+            while (operacao != -1);
+            {
+                Console.WriteLine("Digite a operação:\n[1] Somar\n[2] Devolução\n[0] Sair");
+                Console.Write(">");
+                operacao = Convert.ToInt32(Console.ReadLine());
+
+                switch (operacao)
+                {
+                    case 1:
+                        saldo += (valor * qnt);
+                        break;
+                    case 2:
+                        saldo -= (valor * qnt);
+                        break;
+                    case 0:
+                        Environment.Exit(0);
+                        break;
+                    default:
+                        Console.WriteLine("Operação Inválida!");
+                        break;
+                }
+
+            }
+        }
         static void Main(string[] args)
         {
-            atividade3();
+            atividade4();
 
             Console.WriteLine("\nPrograma finalizado!");
             Console.ReadKey();
