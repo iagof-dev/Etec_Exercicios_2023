@@ -170,7 +170,7 @@ namespace Atividade
             }
             while (operacao != -1);
             {
-                Console.WriteLine("Digite a operação:\n[1] Somar\n[2] Devolução\n[0] Sair");
+                Console.WriteLine("Digite a operação:\n[1] Venda\n[2] Devolução\n[0] Sair");
                 Console.Write(">");
                 operacao = Convert.ToInt32(Console.ReadLine());
 
