@@ -118,6 +118,21 @@ namespace Atividade
 
 
         }
+         static void Exercicio3()
+        {
+            for (int x = 1; x < 10; x++)
+            {
+                Console.Write(x);
+                for (int b = 1; b<10; b++)
+                {
+                    if (b!=x)
+                    {
+                        Console.Write(b);
+                    }
+                }
+                Console.WriteLine("\n");
+            }
+        }
 
         static void Main(string[] args)
         {
