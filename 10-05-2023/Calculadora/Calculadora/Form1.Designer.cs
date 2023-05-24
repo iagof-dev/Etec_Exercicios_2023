@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.btn_somar = new System.Windows.Forms.Button();
             this.btn_clear = new System.Windows.Forms.Button();
             this.btnFechar = new System.Windows.Forms.Button();
@@ -37,6 +38,7 @@
             this.txt_n2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.lbl_resultado = new System.Windows.Forms.Label();
+            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // btn_somar
@@ -120,6 +122,11 @@
             this.lbl_resultado.TabIndex = 8;
             this.lbl_resultado.Text = "0";
             // 
+            // timer1
+            // 
+            this.timer1.Enabled = true;
+            this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -151,6 +158,7 @@
         private System.Windows.Forms.TextBox txt_n2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label lbl_resultado;
+        private System.Windows.Forms.Timer timer1;
     }
 }
 

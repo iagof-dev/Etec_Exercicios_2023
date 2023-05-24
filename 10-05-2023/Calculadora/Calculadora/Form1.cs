@@ -33,7 +33,20 @@ namespace Calculadora
             int n1 = Convert.ToInt32(txt_n1.Text);
             int n2 = Convert.ToInt32(txt_n2.Text);
             int somar = (n1+n2);
-            lbl_resultado.Text = ""+somar;
+            lbl_resultado.Text = somar.ToString();
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            if (txt_n1.Text != string.Empty && txt_n2.Text != string.Empty) {
+
+                int n1 = Convert.ToInt32(txt_n1.Text);
+                int n2 = Convert.ToInt32(txt_n2.Text);
+                int somar = (n1 + n2);
+                lbl_resultado.Text = "" + somar;
+            }
+
+            
         }
     }
 }

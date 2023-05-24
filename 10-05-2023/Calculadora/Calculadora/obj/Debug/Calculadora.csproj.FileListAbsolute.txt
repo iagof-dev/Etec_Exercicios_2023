@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Usuario\Desktop\Etec_Exercicios\10-05-2023\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
