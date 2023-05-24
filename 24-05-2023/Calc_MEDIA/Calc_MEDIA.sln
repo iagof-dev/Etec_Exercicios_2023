@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc_MEDIA", "Calc_MEDIA\Calc_MEDIA.csproj", "{01C3DD2D-01BC-42AE-BB8B-F8A1898D169C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C3DD2D-01BC-42AE-BB8B-F8A1898D169C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C3DD2D-01BC-42AE-BB8B-F8A1898D169C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C3DD2D-01BC-42AE-BB8B-F8A1898D169C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C3DD2D-01BC-42AE-BB8B-F8A1898D169C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0169B2-A3AB-45DD-BDEF-A27E36F46A5E}
+	EndGlobalSection
+EndGlobal
