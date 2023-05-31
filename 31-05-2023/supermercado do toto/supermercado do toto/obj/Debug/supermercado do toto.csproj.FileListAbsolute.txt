@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\obj\Debug\supermercado do toto.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\obj\Debug\supermercado do toto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\obj\Debug\supermercado_do_toto.Form1.resources
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\obj\Debug\supermercado_do_toto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\obj\Debug\supermercado do toto.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\obj\Debug\supermercado do toto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\bin\Debug\supermercado do toto.exe.config
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\bin\Debug\supermercado do toto.exe
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\bin\Debug\supermercado do toto.pdb
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\obj\Debug\supermercado do toto.exe
+C:\Users\Usuario\Desktop\31-05-2023\supermercado do toto\supermercado do toto\obj\Debug\supermercado do toto.pdb
