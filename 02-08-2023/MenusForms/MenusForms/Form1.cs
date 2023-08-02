@@ -48,5 +48,19 @@ namespace MenusForms
             Form quadrado = new Quadrado();
             quadrado.Show();
         }
+
+        private void quadradoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form quadrado = new Quadrado();
+            quadrado.Show();
+        }
+
+        private void retanguloToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form retangulo = new Retangulo();
+            retangulo.Show();
+        }
     }
 }
