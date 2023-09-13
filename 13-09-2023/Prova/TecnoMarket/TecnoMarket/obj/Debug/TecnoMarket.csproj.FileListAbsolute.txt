@@ -1,0 +1,10 @@
+E:\projetos\TecnoMarket\TecnoMarket\bin\Debug\TecnoMarket.exe.config
+E:\projetos\TecnoMarket\TecnoMarket\bin\Debug\TecnoMarket.exe
+E:\projetos\TecnoMarket\TecnoMarket\bin\Debug\TecnoMarket.pdb
+E:\projetos\TecnoMarket\TecnoMarket\obj\Debug\TecnoMarket.csproj.AssemblyReference.cache
+E:\projetos\TecnoMarket\TecnoMarket\obj\Debug\TecnoMarket.Form1.resources
+E:\projetos\TecnoMarket\TecnoMarket\obj\Debug\TecnoMarket.Properties.Resources.resources
+E:\projetos\TecnoMarket\TecnoMarket\obj\Debug\TecnoMarket.csproj.GenerateResource.cache
+E:\projetos\TecnoMarket\TecnoMarket\obj\Debug\TecnoMarket.csproj.CoreCompileInputs.cache
+E:\projetos\TecnoMarket\TecnoMarket\obj\Debug\TecnoMarket.exe
+E:\projetos\TecnoMarket\TecnoMarket\obj\Debug\TecnoMarket.pdb
